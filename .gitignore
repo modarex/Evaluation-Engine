@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Rproj.user
+
+.env
+*.Renviron
+
+data/cache/*
+.DS_Store
+
+
