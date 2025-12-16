@@ -1,0 +1,261 @@
+[
+  {
+    "symbol": "JKPAPER.NS",
+    "name": "JK Paper Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JKPAPER.BO",
+    "name": "JK Paper Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "JKX.L",
+    "name": "JKX Oil & Gas plc",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "9896.T",
+    "name": "JK Holdings Co., Ltd.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "JKLAKSHMI.NS",
+    "name": "JK Lakshmi Cement Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JKLAKSHMI.BO",
+    "name": "JK Lakshmi Cement Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "JKTYRE.NS",
+    "name": "JK Tyre & Industries Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "JKTYRE.BO",
+    "name": "JK Tyre & Industries Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "JKN.BK",
+    "name": "JKN Global Group Public Company Limited",
+    "currency": "THB",
+    "exchangeFullName": "Stock Exchange of Thailand",
+    "exchange": "SET"
+  },
+  {
+    "symbol": "RJKAF",
+    "name": "RJK Explorations Ltd.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "ZJK",
+    "name": "ZJK Industrial Co., Ltd.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "300823.SZ",
+    "name": "TJK Intelligent Equipment Manufacturing (Tianjin) Co., Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "RAJKSYN.BO",
+    "name": "Rajkamal Synthetics Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "RAJKOTINV.BO",
+    "name": "Rajkot Investment Trust Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "RDSMY",
+    "name": "Koninklijke DSM N.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "KPN.AS",
+    "name": "Koninklijke KPN N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "KKPNY",
+    "name": "Koninklijke KPN N.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "KKPNF",
+    "name": "Koninklijke KPN N.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "KDSKF",
+    "name": "Koninklijke DSM N.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "DSM.AS",
+    "name": "Koninklijke DSM N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "VPK.AS",
+    "name": "Koninklijke Vopak N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "VOPKY",
+    "name": "Koninklijke Vopak N.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "VOPKF",
+    "name": "Koninklijke Vopak N.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "BRILL.AS",
+    "name": "Koninklijke Brill N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "RYLPF",
+    "name": "Koninklijke Philips N.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "PHIA.DE",
+    "name": "Koninklijke Philips N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "PHIA.AS",
+    "name": "Koninklijke Philips N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "PHI1.DE",
+    "name": "Koninklijke Philips N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "PHG",
+    "name": "Koninklijke Philips N.V.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "KBAGF",
+    "name": "Koninklijke BAM Groep nv",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "BAMNB.AS",
+    "name": "Koninklijke BAM Groep nv",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "HEIJM.AS",
+    "name": "Koninklijke Heijmans N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "AHOG.DE",
+    "name": "Koninklijke Ahold Delhaize N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "AHODF",
+    "name": "Koninklijke Ahold Delhaize N.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "ADRNY",
+    "name": "Koninklijke Ahold Delhaize N.V.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "AD.MI",
+    "name": "Koninklijke Ahold Delhaize N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Italian Stock Exchange",
+    "exchange": "MIL"
+  },
+  {
+    "symbol": "AD.AS",
+    "name": "Koninklijke Ahold Delhaize N.V.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  }
+]

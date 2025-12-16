@@ -1,0 +1,177 @@
+[
+  {
+    "symbol": "SHELL.AS",
+    "name": "Shell plc",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "SHEL.L",
+    "name": "Shell plc",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "SHEL",
+    "name": "Shell plc",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RYDAF",
+    "name": "Shell plc",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "RDSB.L",
+    "name": "Shell plc",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "RDSB.AS",
+    "name": "Shell plc",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "RDS-B",
+    "name": "Shell plc",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "RDSA.L",
+    "name": "Shell plc",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "RDSA.AS",
+    "name": "Shell plc",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Amsterdam",
+    "exchange": "AMS"
+  },
+  {
+    "symbol": "RDS-A",
+    "name": "Shell plc",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "R6C.DE",
+    "name": "Shell plc",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "R6C3.DE",
+    "name": "Shell plc",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "L3H.F",
+    "name": "Shell plc",
+    "currency": "EUR",
+    "exchangeFullName": "Frankfurt Stock Exchange",
+    "exchange": "FSX"
+  },
+  {
+    "symbol": "SLYG.DE",
+    "name": "Shelly Group SE",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "SHEH",
+    "name": "Shell PLC ADRhedged",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange Arca",
+    "exchange": "AMEX"
+  },
+  {
+    "symbol": "SHLX",
+    "name": "Shell Midstream Partners, L.P.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "002960.KS",
+    "name": "Hankook Shell Oil Co.,Ltd.",
+    "currency": "KRW",
+    "exchangeFullName": "Korea Exchange",
+    "exchange": "KSC"
+  },
+  {
+    "symbol": "RSH3.L",
+    "name": "Leverage Shares 3x Royal Dutch Shell ETP",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "3RDS.L",
+    "name": "Leverage Shares 3x Royal Dutch Shell ETP",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "3RDE.L",
+    "name": "Leverage Shares 3x Royal Dutch Shell ETP",
+    "currency": "EUR",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "3LRD.L",
+    "name": "GraniteShares 3x Long Royal Dutch Shell Daily ETC",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "3SRD.L",
+    "name": "GraniteShares 3x Short Royal Dutch Shell Daily ETC",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "SRDS.L",
+    "name": "Leverage Shares -1x Short Royal Dutch Shell ETP",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "SRDE.L",
+    "name": "Leverage Shares -1x Short Royal Dutch Shell ETP",
+    "currency": "EUR",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "RDSS.L",
+    "name": "Leverage Shares -1x Short Royal Dutch Shell ETP",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  }
+]

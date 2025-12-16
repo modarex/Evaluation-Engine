@@ -1,30 +1,62 @@
-library(httr)
-library(jsonlite)
+suppressPackageStartupMessages({
+  library(httr)
+  library(jsonlite)
+})
 
-fmp_get <- function(path, query = list()) {
-  base_url <- "https://financialmodelingprep.com/stable"
-  api_key  <- Sys.getenv("FMP_API_KEY")
+`%||%` <- function(a, b) if (!is.null(a)) a else b
 
-  if (!nzchar(api_key)) {
-    stop("FMP_API_KEY is not set. Add it to your environment.")
+fmp_base_url <- function() {
+  base <- Sys.getenv("FMP_BASE_URL")
+  if (!nzchar(base)) base <- "https://financialmodelingprep.com/stable"
+  sub("/+$", "", base)
+}
+
+fmp_api_key <- function() Sys.getenv("FMP_API_KEY")
+
+safe_json_parse <- function(txt) {
+  tryCatch(jsonlite::fromJSON(txt, simplifyDataFrame = TRUE), error = function(e) NULL)
+}
+
+fmp_get <- function(endpoint, query = list(), timeout_sec = 15) {
+  base <- fmp_base_url()
+  url <- paste0(base, "/", gsub("^/+", "", endpoint))
+  key <- fmp_api_key()
+
+  if (!nzchar(key)) {
+    return(list(ok = FALSE, status = NA, url = url, error = "FMP_API_KEY env var is not set.", data = NULL))
   }
 
-  query$apikey <- api_key
-
-  url <- modify_url(base_url, path = path, query = query)
-
-  resp <- GET(url)
-  text <- content(resp, as = "text", encoding = "UTF-8")
-
-  parsed <- tryCatch(
-    fromJSON(text, flatten = TRUE),
-    error = function(e) text
+  full_url <- httr::modify_url(url, query = c(query, apikey = key))
+  resp <- tryCatch(
+    httr::GET(full_url, httr::timeout(timeout_sec)),
+    error = function(e) e
   )
+
+  if (inherits(resp, "error")) {
+    return(list(ok = FALSE, status = NA, url = full_url, error = conditionMessage(resp), data = NULL))
+  }
+
+  status <- httr::status_code(resp)
+  body_txt <- tryCatch(httr::content(resp, as = "text", encoding = "UTF-8"), error = function(e) "")
+  parsed <- safe_json_parse(body_txt)
+  ok <- status >= 200 && status < 300
+
+  err <- NULL
+  if (!ok) {
+    err <- parsed$error %||% if (nzchar(body_txt)) substr(body_txt, 1, 500) else paste0("HTTP ", status)
+  }
 
   list(
-    ok = status_code(resp) >= 200 && status_code(resp) < 300,
-    status = status_code(resp),
+    ok = ok,
+    status = status,
+    url = full_url,
     data = parsed,
-    url = url
+    error = err
   )
+}
+
+is_locked <- function(res) {
+  if (is.null(res)) return(FALSE)
+  status <- res$status %||% NA_integer_
+  status %in% c(401, 402, 403)
 }

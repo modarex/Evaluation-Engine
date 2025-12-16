@@ -1,0 +1,16 @@
+[
+  {
+    "symbol": "SUZLON.NS",
+    "name": "Suzlon Energy Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "SUZLON.BO",
+    "name": "Suzlon Energy Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "symbol": "ADANIPOWER.NS",
+    "name": "Adani Power Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIPOWER.BO",
+    "name": "Adani Power Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "ATGL.NS",
+    "name": "Adani Total Gas Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ATGL.BO",
+    "name": "Adani Total Gas Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "ADANIENT.NS",
+    "name": "Adani Enterprises Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIENT.BO",
+    "name": "Adani Enterprises Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "ADANITRANS.NS",
+    "name": "Adani Transmission Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIGREEN.NS",
+    "name": "Adani Green Energy Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIGREEN.BO",
+    "name": "Adani Green Energy Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "ADANIENSOL.NS",
+    "name": "Adani Energy Solutions Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIENSOL.BO",
+    "name": "Adani Energy Solutions Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "ADANIPORTS.NS",
+    "name": "Adani Ports and Special Economic Zone Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "ADANIPORTS.BO",
+    "name": "Adani Ports and Special Economic Zone Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  }
+]

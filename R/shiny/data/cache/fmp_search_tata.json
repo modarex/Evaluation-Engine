@@ -1,0 +1,324 @@
+[
+  {
+    "symbol": "ALTTU.PA",
+    "name": "Tatatu S.p.A.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Paris",
+    "exchange": "PAR"
+  },
+  {
+    "symbol": "TMCV.NS",
+    "name": "Tata Motors Ltd.",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TTST.L",
+    "name": "Tata Steel Limited",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "TTST.IL",
+    "name": "Tata Steel Limited",
+    "currency": "USD",
+    "exchangeFullName": "International Order Book",
+    "exchange": "IOB"
+  },
+  {
+    "symbol": "TATLY",
+    "name": "Tata Steel Limited",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "TATASTEEL.NS",
+    "name": "Tata Steel Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATASTEEL.BO",
+    "name": "Tata Steel Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATAELXSI.NS",
+    "name": "Tata Elxsi Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAELXSI.BO",
+    "name": "Tata Elxsi Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TTM",
+    "name": "Tata Motors Limited",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "TMCV.BO",
+    "name": "Tata Motors Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATAMTRDVR.BO",
+    "name": "Tata Motors Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATAMOTORS.NS",
+    "name": "Tata Motors Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAMOTORS.BO",
+    "name": "Tata Motors Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATACOFFEE.NS",
+    "name": "Tata Coffee Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACOFFEE.BO",
+    "name": "Tata Coffee Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATAMETALI.NS",
+    "name": "Tata Metaliks Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAMETALI.BO",
+    "name": "Tata Metaliks Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATASTLBSL.NS",
+    "name": "Tata Steel BSL Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACHEM.NS",
+    "name": "Tata Chemicals Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACHEM.BO",
+    "name": "Tata Chemicals Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATATECH.NS",
+    "name": "Tata Technologies Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATATECH.BO",
+    "name": "Tata Technologies Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATACOMM.NS",
+    "name": "Tata Communications Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACOMM.BO",
+    "name": "Tata Communications Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "NPBET.NS",
+    "name": "Tata Nifty Private Bank ETF",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TTAZF",
+    "name": "Tata Consumer Products Limited",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "TMPV.BO",
+    "name": "Tata Motors Passenger Vehicles",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATACONSUM.NS",
+    "name": "Tata Consumer Products Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATACONSUM.BO",
+    "name": "Tata Consumer Products Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATASTLLP.NS",
+    "name": "Tata Steel Long Products Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TCS.NS",
+    "name": "Tata Consultancy Services Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TCS.BO",
+    "name": "Tata Consultancy Services Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TATAINVEST.NS",
+    "name": "Tata Investment Corporation Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAINVEST.BO",
+    "name": "Tata Investment Corporation Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "TMPV.NS",
+    "name": "Tata Motors Passenger Vehicles Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TTML.NS",
+    "name": "Tata Teleservices (Maharashtra) Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TTML.BO",
+    "name": "Tata Teleservices (Maharashtra) Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "1255.HK",
+    "name": "TATA Health International Holdings Limited",
+    "currency": "HKD",
+    "exchangeFullName": "Hong Kong Stock Exchange",
+    "exchange": "HKSE"
+  },
+  {
+    "symbol": "TSTH.BK",
+    "name": "Tata Steel (Thailand) Public Company Limited",
+    "currency": "THB",
+    "exchangeFullName": "Stock Exchange of Thailand",
+    "exchange": "SET"
+  },
+  {
+    "symbol": "TATAMTRDVR.NS",
+    "name": "Tata Motors Passenger Vehicles Ltd. - Ordinary Shares - DVR (Class A)",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAPOWER.NS",
+    "name": "The Tata Power Company Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "TATAPOWER.BO",
+    "name": "The Tata Power Company Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "CTTH.JK",
+    "name": "PT Citatah Tbk",
+    "currency": "IDR",
+    "exchangeFullName": "Indonesia Stock Exchange",
+    "exchange": "JKT"
+  },
+  {
+    "symbol": "BEEF.JK",
+    "name": "PT Estika Tata Tiara Tbk",
+    "currency": "IDR",
+    "exchangeFullName": "Indonesia Stock Exchange",
+    "exchange": "JKT"
+  },
+  {
+    "symbol": "603848.SS",
+    "name": "Guangdong Hotata Technology Group Co.,Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shanghai Stock Exchange",
+    "exchange": "SHH"
+  }
+]

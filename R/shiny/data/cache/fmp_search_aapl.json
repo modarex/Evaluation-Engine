@@ -1,0 +1,58 @@
+[
+  {
+    "symbol": "APLY.NE",
+    "name": "Apple (AAPL) Yield Shares Purpose ETF",
+    "currency": "CAD",
+    "exchangeFullName": "CBOE CA",
+    "exchange": "NEO"
+  },
+  {
+    "symbol": "APLY",
+    "name": "YieldMax AAPL Option Income Strategy ETF",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange Arca",
+    "exchange": "AMEX"
+  },
+  {
+    "symbol": "AAPW",
+    "name": "Roundhill AAPL WeeklyPay ETF",
+    "currency": "USD",
+    "exchangeFullName": "Chicago Board Options Exchange",
+    "exchange": "CBOE"
+  },
+  {
+    "symbol": "AAPD",
+    "name": "Direxion Daily AAPL Bear 1X Shares",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AAPU",
+    "name": "Direxion Daily AAPL Bull 1.5X Shares",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AAPB",
+    "name": "GraniteShares 2x Long AAPL Daily ETF",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AAPS.L",
+    "name": "Leverage Shares -3x Short Apple (AAPL) ETP Securities",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "AAPY",
+    "name": "Kurv Yield Premium Strategy Apple (AAPL) ETF",
+    "currency": "USD",
+    "exchangeFullName": "Chicago Board Options Exchange",
+    "exchange": "CBOE"
+  }
+]

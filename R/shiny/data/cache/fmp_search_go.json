@@ -1,0 +1,702 @@
+[
+  {
+    "symbol": "GOVIUSD",
+    "name": "Govi USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOTO.TA",
+    "name": "Goto Ltd",
+    "currency": "ILA",
+    "exchangeFullName": "Tel Aviv Stock Exchange",
+    "exchange": "TLV"
+  },
+  {
+    "symbol": "GOTEMUSD",
+    "name": "gotEM USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOOCHUSD",
+    "name": "Gooch USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOFUSD",
+    "name": "Golff USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GLMUSD",
+    "name": "Golem USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOGO",
+    "name": "Gogo Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "0IYQ.L",
+    "name": "Gogo Inc.",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "GOOUSD",
+    "name": "Gooeys USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOMTUSD",
+    "name": "GoMeat USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOFORE.HE",
+    "name": "Gofore Oyj",
+    "currency": "EUR",
+    "exchangeFullName": "NASDAQ Helsinki",
+    "exchange": "HEL"
+  },
+  {
+    "symbol": "GOFF",
+    "name": "Goff Corp.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "ZZZUSD",
+    "name": "GoSleep USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOUSD",
+    "name": "GoChain USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GORAUSD",
+    "name": "Goracle USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOLCUSD",
+    "name": "GOLCOIN USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOFXUSD",
+    "name": "GooseFX USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GSY.TO",
+    "name": "goeasy Ltd.",
+    "currency": "CAD",
+    "exchangeFullName": "Toronto Stock Exchange",
+    "exchange": "TSX"
+  },
+  {
+    "symbol": "GPRO.SW",
+    "name": "GoPro, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Swiss Exchange",
+    "exchange": "SIX"
+  },
+  {
+    "symbol": "GPRO",
+    "name": "GoPro, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GGROW",
+    "name": "Gogoro Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GGR",
+    "name": "Gogoro Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GDWN.L",
+    "name": "Goodwin PLC",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "EHMEF",
+    "name": "goeasy Ltd.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "5G5.DE",
+    "name": "GoPro, Inc.",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "0R1C.L",
+    "name": "GoPro, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "MNTPUSD",
+    "name": "GoldMint USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "HEELUSD",
+    "name": "Good Dog USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOMININGUSD",
+    "name": "Gomining USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GMEMEUSD",
+    "name": "GoodMeme USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GMATUSD",
+    "name": "GoWithMi USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GLCUSD",
+    "name": "Goldcoin USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GIXUSD",
+    "name": "GoldFinX USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GCUSD",
+    "name": "Gold Futures",
+    "currency": "USD",
+    "exchangeFullName": "CME",
+    "exchange": "COMMODITY"
+  },
+  {
+    "symbol": "GOD.OL",
+    "name": "Goodtech ASA",
+    "currency": "NOK",
+    "exchangeFullName": "Oslo Stock Exchange",
+    "exchange": "OSL"
+  },
+  {
+    "symbol": "GOB.WA",
+    "name": "Gobarto S.A.",
+    "currency": "PLN",
+    "exchangeFullName": "Warsaw Stock Exchange",
+    "exchange": "WSE"
+  },
+  {
+    "symbol": "GMNFF",
+    "name": "GobiMin Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GDP.L",
+    "name": "Goldplat PLC",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "GDDY",
+    "name": "GoDaddy Inc.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "8111.T",
+    "name": "Goldwin Inc.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "002241.SZ",
+    "name": "Goertek Inc.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "GOLUSD",
+    "name": "GogolCoin USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "LOVA",
+    "name": "GoLogiq, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GOLQ",
+    "name": "GoLogiq, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GMGSF",
+    "name": "Goodman Group",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GMG.AX",
+    "name": "Goodman Group",
+    "currency": "AUD",
+    "exchangeFullName": "Australian Securities Exchange",
+    "exchange": "ASX"
+  },
+  {
+    "symbol": "NGLUSD",
+    "name": "Gold Fever USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "HELPUSD",
+    "name": "GoHelpFund USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GTXUSD",
+    "name": "GoalTime N USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOLDENUSD",
+    "name": "Golden Inu USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GBUSD",
+    "name": "GoldBlocks USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "XAU.TO",
+    "name": "Goldmoney Inc.",
+    "currency": "CAD",
+    "exchangeFullName": "Toronto Stock Exchange",
+    "exchange": "TSX"
+  },
+  {
+    "symbol": "XAUMF",
+    "name": "Goldmoney Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "MTTGF",
+    "name": "GoldOz Limited",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GOCO",
+    "name": "GoHealth, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GNTOUSD",
+    "name": "GoldeNugget USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GLBUSD",
+    "name": "Golden Ball USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GDOGEUSD",
+    "name": "Golden Doge USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOYALSALT.NS",
+    "name": "Goyal Salt Ltd.",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "GOLD.TO",
+    "name": "GoldMining Inc.",
+    "currency": "CAD",
+    "exchangeFullName": "Toronto Stock Exchange",
+    "exchange": "TSX"
+  },
+  {
+    "symbol": "GOCOF",
+    "name": "Go Metals Corp.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GOCO.CN",
+    "name": "Go Metals Corp.",
+    "currency": "CAD",
+    "exchangeFullName": "Canadian Securities Exchange",
+    "exchange": "CNQ"
+  },
+  {
+    "symbol": "GLDG",
+    "name": "GoldMining Inc.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange Arca",
+    "exchange": "AMEX"
+  },
+  {
+    "symbol": "GHMP",
+    "name": "Good Hemp, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GFELF",
+    "name": "Goodfellow Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GDL.TO",
+    "name": "Goodfellow Inc.",
+    "currency": "CAD",
+    "exchangeFullName": "Toronto Stock Exchange",
+    "exchange": "TSX"
+  },
+  {
+    "symbol": "7351.T",
+    "name": "Goodpatch, Inc.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "0UYN.L",
+    "name": "GoldMining Inc.",
+    "currency": "CAD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "GOLDUSD",
+    "name": "Golden Token USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOGOUSD",
+    "name": "GOGO.finance USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GLDXUSD",
+    "name": "Goldex Token USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GENSLRUSD",
+    "name": "Good Gensler USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GDEUSD",
+    "name": "Golden Eagle USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GDAOUSD",
+    "name": "Governor DAO USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GWSAF",
+    "name": "Gowest Gold Ltd.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GWA.V",
+    "name": "Gowest Gold Ltd.",
+    "currency": "CAD",
+    "exchangeFullName": "Toronto Stock Exchange Ventures",
+    "exchange": "TSXV"
+  },
+  {
+    "symbol": "GOHO.TA",
+    "name": "Golden House Ltd",
+    "currency": "ILA",
+    "exchangeFullName": "Tel Aviv Stock Exchange",
+    "exchange": "TLV"
+  },
+  {
+    "symbol": "GDCWF",
+    "name": "Gold Corporation",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "5410.T",
+    "name": "Godo Steel, Ltd.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "MLGML.PA",
+    "name": "Gour Medical S.A.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Paris",
+    "exchange": "PAR"
+  },
+  {
+    "symbol": "GRZ.V",
+    "name": "Gold Reserve Inc.",
+    "currency": "CAD",
+    "exchangeFullName": "Toronto Stock Exchange Ventures",
+    "exchange": "TSXV"
+  },
+  {
+    "symbol": "GORL",
+    "name": "Gordon (I.) Corp.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GOOI",
+    "name": "Gooi Global, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GOBLIN.BO",
+    "name": "Goblin India Ltd.",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "GMER",
+    "name": "Good Gaming, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "GLNG",
+    "name": "Golar LNG Limited",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "GDRZF",
+    "name": "Gold Reserve Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "AUU.V",
+    "name": "Gold79 Mines Ltd.",
+    "currency": "CAD",
+    "exchangeFullName": "Toronto Stock Exchange Ventures",
+    "exchange": "TSXV"
+  },
+  {
+    "symbol": "AUSVF",
+    "name": "Gold79 Mines Ltd.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "ALGLD.PA",
+    "name": "Gold By Gold S.A.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Paris",
+    "exchange": "PAR"
+  },
+  {
+    "symbol": "215000.KQ",
+    "name": "GOLFZON Co., Ltd.",
+    "currency": "KRW",
+    "exchangeFullName": "KOSDAQ",
+    "exchange": "KOE"
+  },
+  {
+    "symbol": "0HDY.L",
+    "name": "Golar LNG Limited",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "GZILUSD",
+    "name": "governance ZIL USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GUMUSD",
+    "name": "Gourmet Galaxy USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOTGUSD",
+    "name": "Got Guaranteed USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GOHMUSD",
+    "name": "Governance OHM USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GODSUSD",
+    "name": "Gods Unchained USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GLDNUSD",
+    "name": "Gold Retriever USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "GTG.ST",
+    "name": "Gold Town Games AB",
+    "currency": "SEK",
+    "exchangeFullName": "Stockholm Stock Exchange",
+    "exchange": "STO"
+  },
+  {
+    "symbol": "GSLO",
+    "name": "Go Solar USA, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  }
+]

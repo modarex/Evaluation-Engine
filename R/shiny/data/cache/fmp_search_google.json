@@ -1,0 +1,16 @@
+[
+  {
+    "symbol": "GOO1.L",
+    "name": "Leverage Shares 1x Google ETP",
+    "currency": "EUR",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "GOOP",
+    "name": "Kurv Yield Premium Strategy Google (GOOGL) ETF",
+    "currency": "USD",
+    "exchangeFullName": "Chicago Board Options Exchange",
+    "exchange": "CBOE"
+  }
+]

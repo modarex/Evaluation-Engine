@@ -1,0 +1,702 @@
+[
+  {
+    "symbol": "APC.F",
+    "name": "Apple Inc.",
+    "currency": "EUR",
+    "exchangeFullName": "Frankfurt Stock Exchange",
+    "exchange": "FSX"
+  },
+  {
+    "symbol": "APC.DE",
+    "name": "Apple Inc.",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "AAPL.NE",
+    "name": "Apple Inc.",
+    "currency": "CAD",
+    "exchangeFullName": "CBOE CA",
+    "exchange": "NEO"
+  },
+  {
+    "symbol": "AAPL.MX",
+    "name": "Apple Inc.",
+    "currency": "MXN",
+    "exchangeFullName": "Mexican Stock Exchange",
+    "exchange": "MEX"
+  },
+  {
+    "symbol": "AAPL.DE",
+    "name": "Apple Inc.",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "AAPL",
+    "name": "Apple Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "APQT",
+    "name": "Appliqate Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "APPLX",
+    "name": "Appleseed Fund",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "APUSD",
+    "name": "AppleSwap AI USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "AUVIQ",
+    "name": "Applied UV, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "AUVIP",
+    "name": "Applied UV, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AUVI",
+    "name": "Applied UV, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AFW.AX",
+    "name": "Applyflow Limited",
+    "currency": "AUD",
+    "exchangeFullName": "Australian Securities Exchange",
+    "exchange": "ASX"
+  },
+  {
+    "symbol": "3020.T",
+    "name": "Applied Co., Ltd.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "APP",
+    "name": "AppLovin Corporation",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "APPS.MC",
+    "name": "Applus Services, S.A.",
+    "currency": "EUR",
+    "exchangeFullName": "Madrid Stock Exchange",
+    "exchange": "BME"
+  },
+  {
+    "symbol": "APLUF",
+    "name": "Applus Services, S.A.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "AMNL",
+    "name": "Applied Minerals, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "AP2.DE",
+    "name": "Applied Materials, Inc.",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "AMAT",
+    "name": "Applied Materials, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "4336.HK",
+    "name": "Applied Materials, Inc.",
+    "currency": "HKD",
+    "exchangeFullName": "Hong Kong Stock Exchange",
+    "exchange": "HKSE"
+  },
+  {
+    "symbol": "0R1A.L",
+    "name": "Applied Materials, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "APRU",
+    "name": "Apple Rush Company, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "AERG",
+    "name": "Applied Energetics, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "APPB",
+    "name": "Applied Biosciences Corp.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "APLT",
+    "name": "Applied Therapeutics, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "APDN",
+    "name": "Applied DNA Sciences, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "APLD",
+    "name": "Applied Digital Corporation",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "6598.TW",
+    "name": "Applied BioCode Corporation",
+    "currency": "TWD",
+    "exchangeFullName": "Taiwan Stock Exchange",
+    "exchange": "TAI"
+  },
+  {
+    "symbol": "APLE",
+    "name": "Apple Hospitality REIT, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "AMCC",
+    "name": "Applied Micro Circuits Corp.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "4356.T",
+    "name": "Applied Technology Co., Ltd.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "APVS",
+    "name": "Applied Visual Sciences, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "AAOI",
+    "name": "Applied Optoelectronics, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "2788.T",
+    "name": "Apple International Co., Ltd.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "0HGV.L",
+    "name": "Applied Optoelectronics, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "APGMF",
+    "name": "Applied Graphene Materials plc",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "AGM.L",
+    "name": "Applied Graphene Materials plc",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "IVSS",
+    "name": "Applied Finance IVS US SMID ETF",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "APP.BK",
+    "name": "Applicad Public Company Limited",
+    "currency": "THB",
+    "exchangeFullName": "Stock Exchange of Thailand",
+    "exchange": "SET"
+  },
+  {
+    "symbol": "ALDS",
+    "name": "APPlife Digital Solutions, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "AMTI",
+    "name": "Applied Molecular Transport Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ADB.BK",
+    "name": "Applied DB Public Company Limited",
+    "currency": "THB",
+    "exchangeFullName": "Stock Exchange of Thailand",
+    "exchange": "SET"
+  },
+  {
+    "symbol": "APLY.NE",
+    "name": "Apple (AAPL) Yield Shares Purpose ETF",
+    "currency": "CAD",
+    "exchangeFullName": "CBOE CA",
+    "exchange": "NEO"
+  },
+  {
+    "symbol": "AIT",
+    "name": "Applied Industrial Technologies, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "603020.SS",
+    "name": "Apple Flavor & Fragrance Group Co.,Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shanghai Stock Exchange",
+    "exchange": "SHH"
+  },
+  {
+    "symbol": "AGTC",
+    "name": "Applied Genetic Technologies Corporation",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AGT.V",
+    "name": "Applied Graphite Technologies Corporation",
+    "currency": "CAD",
+    "exchangeFullName": "Toronto Stock Exchange Ventures",
+    "exchange": "TSXV"
+  },
+  {
+    "symbol": "VSLU",
+    "name": "Applied Finance Valuation Large Cap US ETF",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange Arca",
+    "exchange": "AMEX"
+  },
+  {
+    "symbol": "AFVLX",
+    "name": "Applied Finance Select Fund Investor Class",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "IVSI",
+    "name": "Applied Finance IVS International Large ETF",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AFDVX",
+    "name": "Applied Finance Explorer fund Investor Class",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "AFALX",
+    "name": "Applied Finance Dividend Fund Investor Class",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "4168.T",
+    "name": "Yappli, Inc.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "XRAPF",
+    "name": "XRApplied Technologies Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "XRA.CN",
+    "name": "XRApplied Technologies Inc.",
+    "currency": "CAD",
+    "exchangeFullName": "Canadian Securities Exchange",
+    "exchange": "CNQ"
+  },
+  {
+    "symbol": "PNPL",
+    "name": "Pineapple, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "PEGY",
+    "name": "Pineapple Energy Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "PAPL",
+    "name": "Pineapple Financial Inc.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange Arca",
+    "exchange": "AMEX"
+  },
+  {
+    "symbol": "8930.TWO",
+    "name": "CKM Applied Materials Corp.",
+    "currency": "TWD",
+    "exchangeFullName": "Taipei Exchange",
+    "exchange": "TWO"
+  },
+  {
+    "symbol": "GCP",
+    "name": "GCP Applied Technologies Inc.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "PNPL.L",
+    "name": "Pineapple Power Corporation plc",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "MNAO",
+    "name": "Pineapple Express Cannabis Company",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "3848.T",
+    "name": "Data Applications Company, Limited",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "AAPL.L",
+    "name": "LS 1x Apple Tracker ETC",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "AAP1.L",
+    "name": "LS 1x Apple Tracker ETC",
+    "currency": "EUR",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "1AAP.L",
+    "name": "LS 1x Apple Tracker ETC",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "UATG",
+    "name": "Umbra Applied Technologies Group, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "1785.TWO",
+    "name": "Solar Applied Materials Technology Corporation",
+    "currency": "TWD",
+    "exchangeFullName": "Taipei Exchange",
+    "exchange": "TWO"
+  },
+  {
+    "symbol": "GAPJ",
+    "name": "Golden Apple Oil & Gas Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "INFLAME.BO",
+    "name": "Inflame Appliances Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "COMRADE.BO",
+    "name": "Comrade Appliances Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "6698.TW",
+    "name": "FineMat Applied Materials Co., Ltd.",
+    "currency": "TWD",
+    "exchangeFullName": "Taiwan Stock Exchange",
+    "exchange": "TAI"
+  },
+  {
+    "symbol": "SAIC",
+    "name": "Science Applications International Corporation",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "0V9N.L",
+    "name": "Science Applications International Corporation",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "IOBCF",
+    "name": "Ion Beam Applications S.A.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "IBAB.BR",
+    "name": "Ion Beam Applications S.A.",
+    "currency": "EUR",
+    "exchangeFullName": "Euronext Brussels",
+    "exchange": "BRU"
+  },
+  {
+    "symbol": "HINDAPL.BO",
+    "name": "Hindustan Appliances Ltd.",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "GREENCHEF.NS",
+    "name": "Greenchef Appliances Ltd.",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "CXIA",
+    "name": "Commodore Applied Technologies, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "SINC",
+    "name": "Sincerity Applied Materials Holdings Corp.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "HISEF",
+    "name": "Hisense Home Appliances Group Co., Ltd.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "0921.HK",
+    "name": "Hisense Home Appliances Group Co., Ltd.",
+    "currency": "HKD",
+    "exchangeFullName": "Hong Kong Stock Exchange",
+    "exchange": "HKSE"
+  },
+  {
+    "symbol": "000921.SZ",
+    "name": "Hisense Home Appliances Group Co., Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "002959.SZ",
+    "name": "Bear Electric Appliance Co.,Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "002025.SZ",
+    "name": "Guizhou Space Appliance Co., Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "AAPX",
+    "name": "T-Rex 2X Long Apple Daily Target ETF",
+    "currency": "USD",
+    "exchangeFullName": "Chicago Board Options Exchange",
+    "exchange": "CBOE"
+  },
+  {
+    "symbol": "000651.SZ",
+    "name": "Gree Electric Appliances, Inc. of Zhuhai",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "002508.SZ",
+    "name": "Hangzhou Robam Appliances Co., Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "603806.SS",
+    "name": "Hangzhou First Applied Material Co., Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shanghai Stock Exchange",
+    "exchange": "SHH"
+  },
+  {
+    "symbol": "MLP",
+    "name": "Maui Land & Pineapple Company, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "003023.SZ",
+    "name": "Chengdu Rainbow Appliance (Group) Shares Co., Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "002094.SZ",
+    "name": "Qingdao Kingking Applied Chemistry Co., Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "6704.TWO",
+    "name": "Gwo Xi Stem Cell Applied Technology Co. , Ltd",
+    "currency": "TWD",
+    "exchangeFullName": "Taipei Exchange",
+    "exchange": "TWO"
+  },
+  {
+    "symbol": "FUAPF",
+    "name": "Global Compliance Applications Corp.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "APP.CN",
+    "name": "Global Compliance Applications Corp.",
+    "currency": "CAD",
+    "exchangeFullName": "Canadian Securities Exchange",
+    "exchange": "CNQ"
+  },
+  {
+    "symbol": "300626.SZ",
+    "name": "Huarui Electrical Appliance Co.,Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "AAP3.L",
+    "name": "Leverage Shares 3x Apple ETC",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "AAPE.L",
+    "name": "Leverage Shares 2x Apple ETC A",
+    "currency": "EUR",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "AAP2.L",
+    "name": "Leverage Shares 2x Apple ETC A",
+    "currency": "USD",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  }
+]

@@ -1,11 +1,31 @@
+# R / RStudio
 .Rhistory
 .RData
-.Rproj.user
+.Ruserdata
+.Rproj.user/
 
+# Secrets
+.Renviron
 .env
-*.Renviron
+.env.*
+**/*apikey*
+**/*token*
+**/*key*
 
-data/cache/*
+# Data & cache
+data/cache/
+data/raw/
+data/output/
+*.rds
+*.sqlite
+*.log
+
+# Quarto outputs
+*.html
+*.pdf
+*.docx
+.quarto/
+_site/
+
+# Mac
 .DS_Store
-
-

@@ -1,0 +1,702 @@
+[
+  {
+    "symbol": "HSUITEUSD",
+    "name": "HbarSuite USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "PHOENIXTN.BO",
+    "name": "HBG Hotels Ltd",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "A7K.DU",
+    "name": "HBI-Hyperion SE",
+    "currency": "EUR",
+    "exchangeFullName": "Dusseldorf Stock Exchange",
+    "exchange": "DUS"
+  },
+  {
+    "symbol": "HBT",
+    "name": "HBT Financial, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "HBPOR.BO",
+    "name": "HB Portfolio Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "HBMHF",
+    "name": "HBM Holdings Limited",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "HBLENGINE.NS",
+    "name": "HBL Engineering Ltd.",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "2142.HK",
+    "name": "HBM Holdings Limited",
+    "currency": "HKD",
+    "exchangeFullName": "Hong Kong Stock Exchange",
+    "exchange": "HKSE"
+  },
+  {
+    "symbol": "000709.SZ",
+    "name": "Hbis Company Limited",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "HBSTOCK.BO",
+    "name": "HB Stockholdings Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "HBSL.NS",
+    "name": "HB Stockholdings Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "000923.SZ",
+    "name": "HBIS Resources Co., Ltd.",
+    "currency": "CNY",
+    "exchangeFullName": "Shenzhen Stock Exchange",
+    "exchange": "SHZ"
+  },
+  {
+    "symbol": "HBLPOWER.NS",
+    "name": "HBL Power Systems Limited",
+    "currency": "INR",
+    "exchangeFullName": "National Stock Exchange of India",
+    "exchange": "NSE"
+  },
+  {
+    "symbol": "HBLPOWER.BO",
+    "name": "HBL Power Systems Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "HBX.MC",
+    "name": "HBX Group International Plc",
+    "currency": "EUR",
+    "exchangeFullName": "Madrid Stock Exchange",
+    "exchange": "BME"
+  },
+  {
+    "symbol": "HBESD.BO",
+    "name": "HB Estate Developers Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "HBMN.SW",
+    "name": "HBM Healthcare Investments AG",
+    "currency": "CHF",
+    "exchangeFullName": "Swiss Exchange",
+    "exchange": "SIX"
+  },
+  {
+    "symbol": "HBMBF",
+    "name": "HBM Healthcare Investments AG",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "0QOC.L",
+    "name": "HBM Healthcare Investments AG",
+    "currency": "CHF",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "HBLEAS.BO",
+    "name": "HB Leasing and Finance Company Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "OHB.DE",
+    "name": "OHB SE",
+    "currency": "EUR",
+    "exchangeFullName": "Deutsche Börse",
+    "exchange": "XETRA"
+  },
+  {
+    "symbol": "0FH7.L",
+    "name": "OHB SE",
+    "currency": "EUR",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "THBZAR",
+    "name": "THB/ZAR",
+    "currency": "ZAR",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBXAU",
+    "name": "THB/XAU",
+    "currency": "XAU",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBUSD",
+    "name": "THB/USD",
+    "currency": "USD",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBTWD",
+    "name": "THB/TWD",
+    "currency": "TWD",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBSGD",
+    "name": "THB/SGD",
+    "currency": "SGD",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBPKR",
+    "name": "THB/PKR",
+    "currency": "PKR",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBNZD",
+    "name": "THB/NZD",
+    "currency": "NZD",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBMYR",
+    "name": "THB/MYR",
+    "currency": "MYR",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBKRW",
+    "name": "THB/KRW",
+    "currency": "KRW",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBJPY",
+    "name": "THB/JPY",
+    "currency": "JPY",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBINR",
+    "name": "THB/INR",
+    "currency": "INR",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBIDR",
+    "name": "THB/IDR",
+    "currency": "IDR",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBHKD",
+    "name": "THB/HKD",
+    "currency": "HKD",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBGBP",
+    "name": "THB/GBP",
+    "currency": "GBP",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBEUR",
+    "name": "THB/EUR",
+    "currency": "EUR",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBDKK",
+    "name": "THB/DKK",
+    "currency": "DKK",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBCNY",
+    "name": "THB/CNY",
+    "currency": "CNY",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBCNH",
+    "name": "THB/CNH",
+    "currency": "CNH",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBCHF",
+    "name": "THB/CHF",
+    "currency": "CHF",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBCAD",
+    "name": "THB/CAD",
+    "currency": "CAD",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "THBAUD",
+    "name": "THB/AUD",
+    "currency": "AUD",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "9765.T",
+    "name": "Ohba Co., Ltd.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "RHBAF",
+    "name": "RHB Bank Berhad",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "1066.KL",
+    "name": "RHB Bank Berhad",
+    "currency": "MYR",
+    "exchangeFullName": "Malaysian Stock Exchange",
+    "exchange": "KLS"
+  },
+  {
+    "symbol": "DHBCW",
+    "name": "DHB Capital Corp.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DHBCU",
+    "name": "DHB Capital Corp.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "DHBC",
+    "name": "DHB Capital Corp.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "CWBR",
+    "name": "CohBar, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "5237.KL",
+    "name": "MPHB Capital Berhad",
+    "currency": "MYR",
+    "exchangeFullName": "Malaysian Stock Exchange",
+    "exchange": "KLS"
+  },
+  {
+    "symbol": "9036.T",
+    "name": "Tohbu Network Co., Ltd.",
+    "currency": "JPY",
+    "exchangeFullName": "Tokyo Stock Exchange",
+    "exchange": "JPX"
+  },
+  {
+    "symbol": "ADHBHUTIN.BO",
+    "name": "Adhbhut Infrastructure Limited",
+    "currency": "INR",
+    "exchangeFullName": "Bombay Stock Exchange",
+    "exchange": "BSE"
+  },
+  {
+    "symbol": "WSBN.L",
+    "name": "Wishbone Gold Plc",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "CSB.JO",
+    "name": "Cashbuild Limited",
+    "currency": "ZAc",
+    "exchangeFullName": "Johannesburg Stock Exchange",
+    "exchange": "JNB"
+  },
+  {
+    "symbol": "CBUDY",
+    "name": "Cashbuild Limited",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "RTBBF",
+    "name": "Rathbones Group Plc",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "RAT.L",
+    "name": "Rathbones Group Plc",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "5289.KL",
+    "name": "Techbond Group Berhad",
+    "currency": "MYR",
+    "exchangeFullName": "Malaysian Stock Exchange",
+    "exchange": "KLS"
+  },
+  {
+    "symbol": "HBKRF",
+    "name": "Highbank Resources Ltd.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "8359.TWO",
+    "name": "Cashbox Partyworld Co., Ltd.",
+    "currency": "TWD",
+    "exchangeFullName": "Taipei Exchange",
+    "exchange": "TWO"
+  },
+  {
+    "symbol": "HTCF.L",
+    "name": "Highbridge Tactical Credit Fund Limited",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  },
+  {
+    "symbol": "FBXUSD",
+    "name": "ForthBox USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "BASE",
+    "name": "Couchbase, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Global Select",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "NHTUSD",
+    "name": "Neighbourhoods USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "NBZ.ST",
+    "name": "Northbaze Group AB (publ)",
+    "currency": "SEK",
+    "exchangeFullName": "Stockholm Stock Exchange",
+    "exchange": "STO"
+  },
+  {
+    "symbol": "NBLY.TO",
+    "name": "Neighbourly Pharmacy Inc.",
+    "currency": "CAD",
+    "exchangeFullName": "Toronto Stock Exchange",
+    "exchange": "TSX"
+  },
+  {
+    "symbol": "TBLT",
+    "name": "ToughBuilt Industries, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "TBLTW",
+    "name": "ToughBuilt Industries, Inc. WT EXP 110923",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "ZARTHB",
+    "name": "ZAR/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "XAUTHB",
+    "name": "XAU/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "USDTHB",
+    "name": "USD/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "TWDTHB",
+    "name": "TWD/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "SGDTHB",
+    "name": "SGD/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "PKRTHB",
+    "name": "PKR/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "NZDTHB",
+    "name": "NZD/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "MYRTHB",
+    "name": "MYR/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "KRWTHB",
+    "name": "KRW/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "JPYTHB",
+    "name": "JPY/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "INRTHB",
+    "name": "INR/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "IDRTHB",
+    "name": "IDR/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "HKDTHB",
+    "name": "HKD/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "GBPTHB",
+    "name": "GBP/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "EURTHB",
+    "name": "EUR/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "DKKTHB",
+    "name": "DKK/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "CNYTHB",
+    "name": "CNY/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "CNHTHB",
+    "name": "CNH/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "CHFTHB",
+    "name": "CHF/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "CADTHB",
+    "name": "CAD/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "AUDTHB",
+    "name": "AUD/THB",
+    "currency": "THB",
+    "exchangeFullName": "FOREX",
+    "exchange": "FOREX"
+  },
+  {
+    "symbol": "HBCNF",
+    "name": "HealthBeacon plc",
+    "currency": "USD",
+    "exchangeFullName": "Other OTC",
+    "exchange": "OTC"
+  },
+  {
+    "symbol": "MSBI.TA",
+    "name": "Hamashbir 365 Ltd",
+    "currency": "ILA",
+    "exchangeFullName": "Tel Aviv Stock Exchange",
+    "exchange": "TLV"
+  },
+  {
+    "symbol": "SWBK",
+    "name": "Switchback II Corporation",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "ALICEUSD",
+    "name": "MyNeighborAlice USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "WHBARUSD",
+    "name": "Wrapped HBAR USD",
+    "currency": "USD",
+    "exchangeFullName": "CCC",
+    "exchange": "CRYPTO"
+  },
+  {
+    "symbol": "BODY-WT",
+    "name": "The Beachbody Company, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BODY",
+    "name": "The Beachbody Company, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "New York Stock Exchange",
+    "exchange": "NYSE"
+  },
+  {
+    "symbol": "BODI",
+    "name": "The Beachbody Company, Inc.",
+    "currency": "USD",
+    "exchangeFullName": "NASDAQ Capital Market",
+    "exchange": "NASDAQ"
+  },
+  {
+    "symbol": "EEE.AT",
+    "name": "Coca-Cola HBC AG",
+    "currency": "EUR",
+    "exchangeFullName": "Athens Stock Exchange",
+    "exchange": "ATH"
+  },
+  {
+    "symbol": "CCH.L",
+    "name": "Coca-Cola HBC AG",
+    "currency": "GBp",
+    "exchangeFullName": "London Stock Exchange",
+    "exchange": "LSE"
+  }
+]
